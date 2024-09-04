@@ -1,0 +1,12 @@
+img{
+    width: 100px;
+}
+
+div{
+    border: 1px solid;
+    height: 200px;
+    width: 50%;
+    font-size: 32px;
+    padding: 10px;
+    margin: 10px;
+}
